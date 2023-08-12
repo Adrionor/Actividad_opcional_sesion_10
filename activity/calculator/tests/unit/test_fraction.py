@@ -1,4 +1,4 @@
-# IMPORT the `operations` module
+import operations as c
 
 def test_get_fractions():
     # Number as a string
