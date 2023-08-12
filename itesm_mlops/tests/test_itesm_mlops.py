@@ -102,7 +102,7 @@ def test_csv_file_existence():
     Test case to check if the CSV file exists.
     """
     # Provide the path to your CSV file that needs to be tested
-    os.chdir('/Users/carlos/itesm-mlops/module-3/session-10/itesm_mlops/itesm_mlops')
+    os.chdir('C:\Users\jorge.guzman\Actividad opcional sesion 10\Actividad_opcional_sesion_10\itesm_mlops\itesm_mlops')
     csv_file_path = "./data/retrieved_data.csv"
     
     DATASETS_DIR = './data/'
